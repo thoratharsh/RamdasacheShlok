@@ -1,14 +1,19 @@
 <resources>
     <string name="app_name">RamdasacheShlok</string>
+    <string name="channel_name">RamdasacheShlok</string>
+    <string name="channel_description">RamdasacheShlok</string>
     <string name="todaysShlokHeader">आजचा श्लोक</string>
     <string name="todaysShlokTransHeader">श्लोक भाषांतर</string>
+    <string name="otherShlokasButton">अजून श्लोक पहा</string>
     <string-array name="shlokas">
         <item name="1">गणाधीश जो ऎश सर्व गुणांचा\n
             मुल- रम्ब आरंभ तो निर्गुणांच\n
             नमू शरद मूळ चत्वार वाचा\n
             गमू पंथ अनंत या राघवाचा!</item>
-        <item name="2">Shlok 2</item>
-        <item name="3">Shlok 3</item>
+        <item name="2">ho ho dfwjL\nho ho dfwjL\nho ho dfwjL
+        </item>
+        <item name="3">पद पद
+        </item>
         <item name="4">Shlok 4</item>
         <item name="5">Shlok 5</item>
         <item name="6">Shlok 6</item>
